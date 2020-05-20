@@ -129,7 +129,7 @@ function App() {
             </p>
 
             <img
-              src={require('../ScreenShots/Iphone/01_Login.png')}
+              src={require('./ScreenShots/Iphone/01_Login.png')}
               alt='Home Page'
             />
           </div>
