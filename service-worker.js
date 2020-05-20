@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NAWPutterWeb/precache-manifest.2aa4e0845f7a24fbb20e4b14c10475c0.js"
+  "/NAWPutterWeb/precache-manifest.00a7d10d56c79855036dbf186f69b827.js"
 );
 
 self.addEventListener('message', (event) => {
