@@ -106,7 +106,7 @@ function App() {
         <div className='header'>
 
           <h1>
-            Blackjack and Card Counting
+            NAW Putter
           </h1>
 
           <div>
