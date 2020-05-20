@@ -119,17 +119,17 @@ function App() {
 
         <div className='container-main'>
           <h1>
-            Learn how to play blackjack and how to count cards!
+            Track Your Putting Practices and Play Putting Games!
           </h1>
 
           <div className='main'>
 
             <p>
-              Want to learn how to "take down the house" like the MIT blackjack team used to? Just want to pick up a useful skill during the Covid-19 quarantine? Well Blackjack and Card Counting app is just what you need! Blackjack is one of the easiest casino games to learn. It also happens to be one of the games with the best odds for the player. Using this app, you can learn the statistically best ways to play blackjack. This app breaks down counting cards, basic strategy, betting charts, and even covers some betting strategy! This app gives you all the information you need to start playing Blackjack like a real card shark!
+              Have you been spending hours practicing your disc golf putt, only to be unsure that you're actually improving? Have you been improving, but want to see where you can improve more? Tired of simply throwing your disc at the chains, and want some games to spice up your practice session? Well then NAW Putter is for you! NAW Putter tracks your makes and misses and organizes it into helpful and interesting statistics. NAW Putter keeps track of your daily practice session, as well as your previous 10 days of practices, so you can keep track of your improvement over time. Want to know how many putts you've made since downloading the app? We got you covered there as well, can you reach 99% accuracy? Games offer you either a more interesting way to train, or a fun break from your regular routine!
             </p>
 
             <img
-              src={'https://raw.githubusercontent.com/dlafrance99/Blackjack-CardCounter/master/Images/ScreenShots/Screen01_Home.png'}
+              src={require('../ScreenShots/Iphone/01_Login.png')}
               alt='Home Page'
             />
           </div>
