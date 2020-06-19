@@ -7,7 +7,7 @@ font-family: 'American Typewriter';
 color: #e6e6e6;
 background-color: #6f263d;
 a{
-  background-color: #236192;
+  background-color: #440d16;
   padding: 15px;
   color: white;
   border-radius: 25px;
@@ -28,14 +28,12 @@ img{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: white;
-  color: black
+  background-color: #236192;
 }
 .footer{
   text-align: center;
-  background-color: white;
-  color: black;
-  margin-bottom: 10px;
+  background-color: #236192;
+  padding-bottom: 10px;
 }
 .row{
   display: flex;
@@ -256,7 +254,7 @@ function App() {
             </p>
 
             <p>
-              Built in Colorado | Copyright © 2020 NAW Development
+              Built in Colorado | Copyright © 2020 NAW Development LLC.
             </p>
 
           </div>
