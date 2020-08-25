@@ -41,7 +41,7 @@ img{
   align-items: center;
 }
 hr{
-  width: 80%
+  width: 81%
 }
 .container-main{
   background-color: #4f131f;
@@ -108,7 +108,7 @@ function App() {
           </h1>
 
           <div>
-            <a href=''>
+            <a href='https://apps.apple.com/us/app/naw-putter/id1513636570' target='_blank' rel="noopener noreferrer">
               DOWNLOAD ON THE APP STORE!
             </a>
           </div>
@@ -234,11 +234,11 @@ function App() {
           <div className='row'>
 
             <h1>
-              Blackjack and Card Counting
+              NAW Putter
             </h1>
 
             <div>
-              <a href=''>
+              <a href='https://apps.apple.com/us/app/naw-putter/id1513636570' target='_blank' rel="noopener noreferrer">
                 DOWNLOAD ON THE APP STORE!
               </a>
             </div>
